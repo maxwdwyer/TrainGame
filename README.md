@@ -6,6 +6,8 @@ All sounds are from pixabay
 
 Anaïs Mitchell, who made the musical hadestown, as that was the inspiration for this
 
+The Train Tunnels by Blast4300 on Roblox as major inspiration - https://www.roblox.com/games/10597909307
+
 GameMaker for the game engine
 
 
