@@ -1,0 +1,15 @@
+global.time = [current_second, current_minute, current_hour]
+global.s = false
+im = 0
+depth = 398
+hunger = 45
+scool = 11
+cool = 7
+w1 = 0
+w2 = 0
+w3 = 0
+w4 = 0
+w5 = 0
+w6 = 0
+w7 = 0
+w8 = 0

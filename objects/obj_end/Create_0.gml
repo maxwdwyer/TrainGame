@@ -1,0 +1,12 @@
+global.onfire = []
+global.fire = []
+global.buildingnum = []
+image_alpha = 0
+t = [0, 0, 0, 0, 0]
+hour = current_hour
+minu = current_minute//(floor(current_time) / fps) / 60
+sec = current_second//floor((current_time / fps) / 60) * 60
+time = ((hour * 60 * 60) + (minu * 60) + sec) - (global.time[0] + (global.time[1] * 60) + (global.time[2] * 60 * 60))
+hour = floor(time / (60 * 60))
+minu = floor((time - (hour * 60 * 60)) / 60)
+sec = round((frac((time - (hour * 60 * 60)) / 60) / (10/6)) * 100)
